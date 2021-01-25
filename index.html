@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  
+  <script type="text/javascript" src="./script.js"></script>
+  <title>Pricing Component</title>
+</head>
+<body>
+  <main>  
+    <section class="our-pricing">
+      <h1>Our Pricing</h1>
+      <div class="select-price">
+        <span>Annually</span>
+        <input type="checkbox" onclick="changePrice()" autocomplete="off" class="btn-change" id="change-price">
+        <span>Monthly</span>
+      </div>
+    </section>
+
+    <section class="cards-pricing">
+      <div class="basic">
+        <h4>Basic</h4>
+        <p class="price-num" id="price-basic">199.99</p>
+        <p>500 GB Storege</p>
+        <p>2 Users allowed</p>
+        <p>Send up to 3 GB</p>
+        <button type="submit" class="btn-learn-more">LEARN MORE</button>
+      </div>
+
+      <div class="professional">
+        <h4>Professional</h4>
+        <p class="price-num" id="price-professional">249.99</p>
+        <p>1 TB Storege</p>
+        <p>5 Users Allowed</p>
+        <p>Send up to 10 GB</p>
+        <button type="submit" class="btn-learn-more middle">LEARN MORE</button>
+      </div>
+
+      <div class="master">
+        <h4>Master</h4>
+        <p class="price-num" id="price-master">399.99</p>
+        <p>2 TB Storege</p>
+        <p>10 Users Allowed</p>
+        <p>Send up to 20 GB</p>
+        <button type="submit" class="btn-learn-more">LEARN MORE</button>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
