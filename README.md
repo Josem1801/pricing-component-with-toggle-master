@@ -1,9 +1,9 @@
 # Frontend Mentor - File Transfer pricing component
 
-Este es mi resultado final del diseño del Desktop
+- Este es mi resultado final del diseño del **Desktop**
 ![Design final for the File Transfer pricing component coding challenge](./final-picture-desktop.png)
 
-Este es el del Mobile
+- Este es el del Mobile
 ![Design final for the File Transfer pricing component coding challenge](./final-picture-mobile.png)
 
 
