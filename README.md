@@ -3,9 +3,9 @@
 - Este es mi resultado final del diseño del **Desktop**
 ![Design final for the File Transfer pricing component coding challenge](./final-picture-desktop.png)
 
-- Este es el del Mobile
+<center> - Este es el del Mobile</center>
 
-![Design final for the File Transfer pricing component coding challenge](./final-picture-mobile.png)
+<center> ![Design final for the File Transfer pricing component coding challenge](./final-picture-mobile.png) </center>
 
 
 ## The challenge
