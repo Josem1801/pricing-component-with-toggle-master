@@ -4,6 +4,7 @@
 ![Design final for the File Transfer pricing component coding challenge](./final-picture-desktop.png)
 
 - Este es el del Mobile
+
 ![Design final for the File Transfer pricing component coding challenge](./final-picture-mobile.png) 
 
 ## The challenge
